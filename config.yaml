@@ -1,12 +1,6 @@
 # Bot credentials
 appid: "102106051"
-secret: "j1JbtCVo7Qj2LfzJdxHbwHcxIdzLh3Pm"
+secret: "r09IRajs2CMWgq0BMXit4FQco0COamzC"
 
 # Environment settings
 sandbox: true  # Set to false for production
-
-# HTTP server settings (for Webhook)
-server:
-  host: "0.0.0.0"
-  port: 8080
-  path: "/qqbot"
